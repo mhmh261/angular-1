@@ -189,7 +189,7 @@
     "prettier": "^3.0.0",
     "sauce-connect": "https://saucelabs.com/downloads/sc-4.8.1-linux.tar.gz",
     "seek-bzip": "^2.0.0",
-    "semver": "^7.3.5",
+    "semver": "^7.5.3",
     "ts-node": "^10.9.1",
     "tsec": "0.2.7",
     "tslint-eslint-rules": "5.4.0",
