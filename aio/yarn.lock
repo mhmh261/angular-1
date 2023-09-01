@@ -1636,10 +1636,10 @@
   resolved "https://registry.yarnpkg.com/@bazel/esbuild/-/esbuild-5.8.1.tgz#74668d33bfb29652cbe8e2852aa8dca5e0839e73"
   integrity sha512-8k4LL8P3ivCnFeBOcjiFxL8U+M5VtEGuOyIqm2hfEiP8xDWsZLS7YQ7KhshKJy7Elh2dlK9oGgMtl0D/x9kxxg==
 
-"@bazel/ibazel@^0.16.2":
-  version "0.16.2"
-  resolved "https://registry.yarnpkg.com/@bazel/ibazel/-/ibazel-0.16.2.tgz#05dd7f06659759fda30f87b15534f1e42f1201bb"
-  integrity sha512-KgqAWMH0emL6f3xH6nqyTryoBMqlJ627LBIe9PT1PRRQPz2FtHib3FIHJPukp1slzF3hJYZvdiVwgPnHbaSOOA==
+"@bazel/ibazel@^0.23.0":
+  version "0.23.7"
+  resolved "https://registry.yarnpkg.com/@bazel/ibazel/-/ibazel-0.23.7.tgz#c994c25a5036d2555794f94b8a8aad30a7bfbd18"
+  integrity sha512-yXoEXfRXrrnr+3xz0nrL9N90A+SVInZzvReQqCwWxbFhRuEWawf1Nm5NCpOw+STwzH/N1Rbc+7McXIGaAVRi8g==
 
 "@bazel/jasmine@^5.4.1":
   version "5.8.1"
@@ -12402,7 +12402,7 @@ safeps@7.0.1:
     taskgroup "^5.0.0"
     typechecker "^4.3.0"
 
-"safer-buffer@>= 2.1.2 < 3", "safer-buffer@>= 2.1.2 < 3.0.0", safer-buffer@^2.0.2, safer-buffer@~2.1.0:
+"safer-buffer@>= 2.1.2 < 3", "safer-buffer@>= 2.1.2 < 3.0.0", safer-buffer@^2.0.2, safer-buffer@^2.1.0, safer-buffer@~2.1.0:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
